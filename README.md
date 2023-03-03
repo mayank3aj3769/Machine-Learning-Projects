@@ -12,4 +12,4 @@ Projects are meant only for academic reference.Please check the paths carefully 
   * Used IMDB movie reviews in pickle format
   * Preprocessed ,Tokenized and embedded the dataset
   * Generated positive and negative data pairs
-  * Implemented Word2Vec using tensorflow
+  * Implemented Word2Vec (skip-gram) using tensorflow

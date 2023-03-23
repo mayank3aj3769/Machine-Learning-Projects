@@ -2,7 +2,7 @@
 
 # Academic projects covering various ML algorithms. 
 
-Projects are meant only for academic reference.Please check the paths carefully before running the notebooks.
+Projects are meant only for academic reference and in compliance with the graduate honors code.Please check the paths carefully before running the notebooks.
 
 1- Logistics Regression implementation for message classification using NumPy.
    * Spam vs Ham text messages on UCI dataset

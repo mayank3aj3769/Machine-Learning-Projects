@@ -13,3 +13,10 @@ Projects are meant only for academic reference.Please check the paths carefully 
   * Preprocessed ,Tokenized and embedded the dataset
   * Generated positive and negative data pairs
   * Implemented Word2Vec (skip-gram) using tensorflow , used Stochastic Gradient Descent
+  
+3-Semantic Network of tweets containing a keyword 
+  * Scrapped tweets from twitter API
+  * Cleaned, preprocessed the text by removing punctuations, stopwords and links
+  * Built a semantic network of tweets containing a keyword
+  * Made node size proportional to eigenvector centrality of words
+ 

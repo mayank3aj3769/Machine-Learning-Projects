@@ -20,3 +20,10 @@ Projects are meant only for academic reference and in compliance with the gradua
   * Built a semantic network of tweets containing a keyword
   * Made node size proportional to eigenvector centrality of words
  
+4- N-gram and RNN based text generation model with Good turing and kneser ney smoothing
+  * Cleaned,preprocessed and lemmatized the text
+  * Created word tokens vacabulory
+  * Calculated unigram and bigram count for the corpus
+  * Implemented bi-gram model
+  * Applied Good turing and KneserNey smoothing
+  * Built an RNN model using tensorflow based on the same corpus and compared the performance with bi-gram model 

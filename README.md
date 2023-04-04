@@ -7,6 +7,9 @@ Projects are meant only for academic reference and in compliance with the gradua
 1- Logistics Regression implementation for message classification using NumPy.
    * Spam vs Ham text messages on UCI dataset
    * Implemented SGD,mini-batch GD 
+   * Used binary cross-entropy loss function and tuned hyper-parameters for optimization
+   * Built a logistic regression model in Numpy. Compared the performance of Stochastic Gradient Descent and Batch Gradient Descent.
+   
 
 2- Sentiment Analysis of IMDB movie reviews using Word2Vec model (skip-gram) in numpy and tensorflow
   * Used IMDB movie reviews in pickle format

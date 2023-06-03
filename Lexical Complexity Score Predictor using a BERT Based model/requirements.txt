@@ -1,0 +1,8 @@
+jupyterlab
+matplotlib
+numpy
+scikit-learn
+tensorflow
+tensorflow_addons
+transformers
+contractions

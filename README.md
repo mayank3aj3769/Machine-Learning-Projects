@@ -1,6 +1,6 @@
 ## Machine-Learning-Projects
 
-# Academic projects covering various ML algorithms. 
+# Academic projects covering various applications of Deep Learning . 
 
 Projects are meant only for academic reference and in compliance with the graduate honors code.Please check the paths carefully before running the notebooks.
 

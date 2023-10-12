@@ -30,3 +30,5 @@ Projects are meant only for academic reference and in compliance with the gradua
   * Implemented bi-gram model
   * Applied Good turing and KneserNey smoothing
   * Built an RNN model using tensorflow based on the same corpus and compared the performance with bi-gram model 
+  
+5- Lexical Complexity Score Predictor of single words as per SemEval-2021 task https://sites.google.com/view/lcpsharedtask2021 

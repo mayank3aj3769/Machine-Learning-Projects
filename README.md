@@ -42,3 +42,12 @@ Projects are meant only for academic reference and in compliance with the gradua
   * Trained Neural Network to map objects to their corresponding properties.
   * Deterioration of semantic knowledge in dementia is accounted by adding noise to the learned representations.
   * Network is trained to answer queries involving an item (e.g., “Canary”) and a relation (e.g.,  “CAN”), outputting all attributes that are true of the item/relation pair (e.g., “grow, move, fly, sing”).
+
+7- Sentiment Analysis of market conditions based on global news reports
+  * Developed a sentiment analysis system for specific set of industries by utilizing the massive volume of online news stories.
+  * Scraped the news articles from global media platforms using the newsdata.io API and stock market data using yahoo finance API
+  * Pre-processed the dataset by removing stop words and performing lemmatization and stemming.
+  * Visualized the dataset using the WordCloud and frequency distribution plots for each cluster
+  * Labelled the articles using VADER sentiment analyzer package and built a transformer based model consisting of pre-trained      weights of BERT, RoBERTa and linear layers.Used mean-squared-error as loss function and RMSProp as optimizer.
+  * Used L2-regularization and dropout mechanism to prevent overfitting.
+  * Finally obtained the pearson correlation score of 0.87 between average stock price and  sentiment score of a sector to validate the results 

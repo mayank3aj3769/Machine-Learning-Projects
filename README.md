@@ -1,4 +1,4 @@
-## Machine-Learning-Projects
+## Deep-Learning-Projects
 
 # Academic projects covering various applications of Deep Learning
 

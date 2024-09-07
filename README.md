@@ -51,3 +51,11 @@ Projects are meant only for academic reference and in compliance with the gradua
   * Labelled the articles using VADER sentiment analyzer package and built a transformer based model consisting of pre-trained      weights of BERT, RoBERTa and linear layers.Used mean-squared-error as loss function and RMSProp as optimizer.
   * Used L2-regularization and dropout mechanism to prevent overfitting.
   * Finally obtained the pearson correlation score of 0.87 between average stock price and  sentiment score of a sector to validate the results 
+
+8- Classification and Representation Lexical classes using language modelling approach
+
+  * Extended Elman's "Finding Structure in Time" using a transformer-based language model on the 'go-emotion' text corpus for advanced lexical and grammatical analysis, validating Elman's model against this larger dataset and identifying limitations through post-training embedding studies.
+
+  * Introduced a transformer model, examining its embeddings for semantic patterns using cosine similarity and pairwise distances among prevalent tokens.
+
+  * Compared semantic cognition insights from this investigation with those of Rogers and McClelland's methodology, providing a consolidated view of language modeling's ability to classify and represent lexical   information.

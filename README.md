@@ -4,14 +4,14 @@
 
 Projects are meant only for academic reference and in compliance with the graduate honors code.Please check the paths carefully before running the notebooks.
 
-1- Logistics Regression implementation for message classification using NumPy.
+1- **[Logistics Regression implementation for message classification using NumPy](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/9e7952cbcf416d7dfec519635ae52756dce438a0/Logistic%20Regression%20for%20text%20classification%20in%20Numpy.ipynb)**
    * Spam vs Ham text messages on UCI dataset
    * Implemented SGD,mini-batch GD 
    * Used binary cross-entropy loss function and tuned hyper-parameters for optimization
    * Built a logistic regression model in Numpy. Compared the performance of Stochastic Gradient Descent and Batch Gradient Descent.
    
 
-2- Sentiment Analysis of IMDB movie reviews using Word2Vec model (skip-gram) in numpy and tensorflow
+2- **[Sentiment Analysis of IMDB movie reviews using Word2Vec model (skip-gram) in numpy and tensorflow](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/9e7952cbcf416d7dfec519635ae52756dce438a0/Logistic%20Regression%20for%20text%20classification%20in%20Numpy.ipynb)**
   * Used IMDB movie reviews in pickle format
   * Preprocessed ,Tokenized and embedded the dataset
   * Generated positive and negative data pairs

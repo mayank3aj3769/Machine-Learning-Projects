@@ -17,13 +17,13 @@ Projects are meant only for academic reference and in compliance with the gradua
   * Generated positive and negative data pairs
   * Implemented Word2Vec (skip-gram) using tensorflow , used Stochastic Gradient Descent
   
-3-**[Semantic Network of tweets containing a keyword](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/0cc2255ca1ef89e030a81906abf47a72deef0176/Semantic%20Network%20based%20on%20tweets%20containing%20a%20keyword.ipynb) 
+3-**[Semantic Network of tweets containing a keyword](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/0cc2255ca1ef89e030a81906abf47a72deef0176/Semantic%20Network%20based%20on%20tweets%20containing%20a%20keyword.ipynb)** 
   * Scrapped tweets from twitter API
   * Cleaned, preprocessed the text by removing punctuations, stopwords and links
   * Built a semantic network of tweets containing a keyword
   * Made node size proportional to eigenvector centrality of words
  
-4- **[N-gram and RNN based text generation model with Good turing and kneser ney smoothing](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/0cc2255ca1ef89e030a81906abf47a72deef0176/N-gram%20and%20RNN%20based%20language%20model%20for%20text%20generation.ipynb)
+4- **[N-gram and RNN based text generation model with Good turing and kneser ney smoothing](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/0cc2255ca1ef89e030a81906abf47a72deef0176/N-gram%20and%20RNN%20based%20language%20model%20for%20text%20generation.ipynb)**
   * Cleaned,preprocessed and lemmatized the text
   * Created word tokens vacabulory
   * Calculated unigram and bigram count for the corpus
